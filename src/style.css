@@ -7,6 +7,7 @@
   --accent: #146c43;
   --accent-soft: #e7f5ee;
   --danger: #b23a2f;
+  --mono: "JetBrains Mono", "SFMono-Regular", "Courier New", monospace;
   --shadow: 0 14px 45px rgba(9, 36, 21, 0.12);
   font-family: "Manrope", "PingFang SC", "Microsoft YaHei", sans-serif;
   line-height: 1.5;
